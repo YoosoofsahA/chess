@@ -1,6 +1,7 @@
 **Chess Game Simulator in C++**
 
 **Project Overview**
+
 This project is a C++ implementation of a chess game simulator. It accurately simulates and manages chess games by loading game states from Forsyth–Edwards Notation (FEN) strings and processes moves inputted by users. The primary focus of this project is to demonstrate advanced C++ programming skills and object-oriented design principles.
 
 **Features**
